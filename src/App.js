@@ -11,7 +11,7 @@ export default function App() {
       <footer>
         This project was coded by Merita Ramadani and is{" "}
         <a
-          href=""
+          href="https://github.com/Rita997/weather-app-react"
           target="_blank"
           rel="noopener noreferrer"
         >
